@@ -2,7 +2,7 @@
 
 **项目中整合 vue + nuxt + axios + vuex + vue-router (nuxt 自带 vuex 和 vue-router)，一个基于 Nuxt 的服务器端渲染**
 
-## 项目构建步骤
+## 项目构建步骤s
 
 ``` bash
 # 安装依赖
